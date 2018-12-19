@@ -37,8 +37,7 @@ This project is the byproduct of that effort.
 ### Nonequivalency
 
 The computer where you use this repo is probably not completely capable of 
-completely simulating all aspects of the exact cloud instance type you want
-to simulate.
+simulating all aspects of the exact cloud instance type you want to simulate.
 
 There are several reasons for this, but here are just a few likely deltas
 between your host and that of any given cloud instance type.
